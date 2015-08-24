@@ -3,5 +3,5 @@
  */
 $(document).ready( function() {
     var setting = {};
-    $(".scroll-top").myScrollTop(setting);
+    $("#scroll-top").myScrollTop(setting);
 });
